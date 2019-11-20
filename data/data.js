@@ -1,5 +1,5 @@
-const siteList = [ 
-    "Blaenavon Industrial Landscape", 
+const siteList = [
+    "Blaenavon Industrial Landscape",
     "Blenheim Palace",
     "Canterbury Cathedral",
     "St Augustine's Abbey",
@@ -36,3 +36,5 @@ const siteList = [
     "Studley Royal Park",
     "Tower of London"
 ]
+
+module.exports = siteList;
